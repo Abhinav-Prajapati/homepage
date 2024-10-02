@@ -4802,3 +4802,4 @@
 [2024-10-02T20:10:54.423Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://192.168.0.114:2283/api/server-info/stats
 [2024-10-02T20:10:56.241Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://192.168.0.114:2283/api/server-info/stats
 [2024-10-02T20:10:58.289Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://192.168.0.114:2283/api/server-info/stats
+[2024-10-02T20:28:59.511Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://192.168.0.114:2283/api/server-info/stats
