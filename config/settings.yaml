@@ -1,0 +1,18 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/settings
+
+title: Home Sweet Home
+
+#You will need to restart the container any time you add new images, this is a limitation of the Next.js static site server.
+# background:
+  # image: https://img.freepik.com/free-photo/full-shot-ninja-wearing-equipment_23-2150961040.jpg?t=st=1727797643~exp=1727801243~hmac=6b87c1c268993afe65e3feb3346dcfe93c2897b45f197a94efbe79e63ab0a444&w=1380
+  # blur: sm # sm, "", md, xl... see https://tailwindcss.com/docs/backdrop-blur
+  # saturate: 50 # 0, 50, 100... see https://tailwindcss.com/docs/backdrop-saturate
+  # brightness: 50 # 0, 50, 75... see https://tailwindcss.com/docs/backdrop-brightness
+  # opacity: 50 # 0-100
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey
+  finnhub:  

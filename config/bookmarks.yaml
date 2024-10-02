@@ -1,0 +1,39 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Dev:
+    - Github:
+        - icon: github.png
+          href: https://github.com/
+    - Chat Gpt:
+        - icon: chatgpt.png
+          href: https://chat.openai.com/
+
+- Social:
+    - Reddit:
+        - icon: reddit.png
+          href: https://reddit.com/
+    - Instagram:
+        - icon: instagram.png
+          href: https://instagram.com/
+    - Linkedin:
+        - icon: linkedin.png
+          href: https://linkedin.com/
+
+- Entertainment:
+    - YouTube:
+        - icon: youtube.png
+          href: https://youtube.com/
+    - Spotify:
+        - icon: spotify.png
+          href: https://open.spotify.com/
+- Doc:
+    - React native:
+          - abbr: RN
+            href: https://youtube.com/
+    - Get Home Page:
+          - abbr: HP
+            href: https://gethomepage.dev/
+      
+
